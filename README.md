@@ -9,6 +9,6 @@ See [Cinnamon documentation] for details on configuring the Cinnamon Agent and d
 Licensed under the [Lightbend Subscription Agreement].
 
 
-[Cinnamon documentation]: http://developer.lightbend.com/docs/monitoring/latest/home.html
+[Cinnamon documentation]: https://developer.lightbend.com/docs/cinnamon/latest/home.html
 [Lightbend commercial credentials]: https://www.lightbend.com/product/lightbend-reactive-platform/credentials
 [Lightbend Subscription Agreement]: https://downloads.lightbend.com/website/legal/LightbendSubscriptionAgreement.pdf
